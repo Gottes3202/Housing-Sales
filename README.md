@@ -1,1 +1,1 @@
-XGBoostRegressor with cross-validation.
+XGBRegressor with cross-validation.
